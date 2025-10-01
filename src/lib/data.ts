@@ -191,7 +191,7 @@ export const projects: Project[] = [
     slug: 'macrame-pillow',
     title: 'Almofada de Macramê',
     description: 'Transforme uma capa de almofada simples em uma peça de decoração sofisticada.',
-    imageId: 'macrame-pillow',
+    imageId: 'macrame-pillow-new',
     videoUrl: 'https://www.youtube.com/embed/r4UOzMLmEcY',
     instructions: [
       'Marque o desenho desejado na capa da almofada com um lápis.',
