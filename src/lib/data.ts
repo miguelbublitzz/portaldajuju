@@ -106,33 +106,6 @@ export const projects: Project[] = [
     supplierLink: '/suppliers#supplier-1'
   },
   {
-    id: '4',
-    slug: 'banana-holder',
-    title: 'Suporte para Bananas 🍌',
-    description: 'Um jeito criativo e funcional de armazenar suas frutas e decorar a cozinha.',
-    imageId: 'macrame-banana-holder',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
-    instructions: [
-      'Corte 8 fios de 2 metros cada.',
-      'Junte todos os fios e faça um nó grande em uma das pontas, formando um laço para pendurar.',
-      'Separe os fios em 4 grupos de 4 fios.',
-      'Faça uma sequência de nós quadrados em cada grupo.',
-      'Junte os grupos para formar a "cesta" onde as bananas ficarão.',
-      'Finalize com um nó grande na parte de baixo, e adicione contas de madeira se desejar.'
-    ],
-    tips: [
-      'Sempre que for usar miçangas de madeira no macramê, passe um pedacinho de fita adesiva na ponta do cordão antes de inserir. Isso deixa a ponta firme como uma agulha e facilita muito na hora de colocar as miçangas, sem desfiar o fio. Assim, o trabalho fica rápido e o acabamento bem mais limpo! 🌿👌'
-    ],
-    materials: [
-        'Cordão de algodão',
-        '1 cordão de 6mm com 30cm (alça)',
-        '4 cordões de 4mm com 130cm cada',
-        '1 cordão de 3mm com 70cm (nó escondido)',
-        '8 miçangas de madeira de 10mm'
-    ],
-    supplierLink: '/suppliers#supplier-2'
-  },
-  {
     id: '5',
     slug: 'macrame-pot-cover',
     title: 'Capa para Vasos em Macramê',
