@@ -25,10 +25,10 @@ export const projects: Project[] = [
   {
     id: '1',
     slug: 'macrame-bag',
-    title: 'Bolsa de Macramê',
+    title: 'Bolsa de Macramê 👜',
     description: 'Aprenda a fazer uma bolsa de macramê elegante e prática para o dia a dia.',
     imageId: 'macrame-bag',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ', // Placeholder video
+    videoUrl: 'https://www.youtube.com/embed/wbzsi46vjsY',
     instructions: [
       'Corte os fios no tamanho adequado.',
       'Prenda os fios no suporte e comece com o nó de laçada.',
@@ -37,20 +37,27 @@ export const projects: Project[] = [
       'Finalize com um penteado nos fios da franja.'
     ],
     tips: [
-      'Mantenha a tensão dos nós uniforme para um acabamento profissional.',
-      'Use um cabide ou galho firme como suporte para trabalhar com mais conforto.',
-      'Se errar, desfaça o nó com cuidado para não danificar o fio.'
+      'Na França, as artesãs me ensinaram que, antes de começar uma bolsa de macramê, é bom passar os fios de algodão rapidamente no vapor do ferro de passar. Isso ajuda a alinhar os fios, deixa o trançado mais uniforme e evita aquelas ondulações chatas no acabamento. É um truque simples, mas que dá um ar de peça profissional desde o primeiro nó! 🧵🔥'
     ],
-    materials: ['Cordão de algodão 4mm', 'Cola para artesanato', 'Botão magnético (opcional)', 'Mosquetão (opcional)'],
+    materials: [
+        'CORDÃO DE ALGODÃO 3mm',
+        '1 fio base de 2m',
+        '26 fios de 3,70m',
+        '2 fios de 7m cada (alça)',
+        '2 fios de aproximadamente 40cm cada (nó escondido na alça)',
+        'Cola universal para artesanato',
+        'Botão de ímã (opcional)',
+        'Mosquetão (opcional)'
+    ],
     supplierLink: '/suppliers#supplier-1'
   },
   {
     id: '2',
     slug: 'macrame-belt',
-    title: 'Cinto de Macramê',
+    title: 'Cinto de Macramê 👗',
     description: 'Um acessório charmoso para compor seus looks. Fácil e rápido de fazer.',
     imageId: 'macrame-belt',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/MBRoVVuGMBk',
     instructions: [
       'Passe os fios pela argola de madeira e dobre ao meio.',
       'Faça um nó de laçada para prender os fios na argola.',
@@ -59,19 +66,25 @@ export const projects: Project[] = [
       'Finalize com um nó simples e apare as franjas.'
     ],
     tips: [
-      'Fio náutico é ótimo para cintos por ser mais firme e durável.',
-      'Para um efeito mais delicado, use um fio de algodão mais fino.'
+      'Quando eu morava na França, aprendi com uma artesã parisiense que, para cintos de macramê, o segredo está em umedecer levemente o fio náutico antes de começar. Isso deixa os nós mais firmes e evita que o cinto laceie com o tempo. Essa técnica quase ninguém ensina, mas faz toda a diferença no acabamento final! ✨👗'
     ],
-    materials: ['Fio náutico ou cordão de algodão 3mm', 'Argola de madeira', 'Tesoura'],
+    materials: [
+        'Fio náutico de 5mm (ou cordão de algodão 2–3mm)',
+        '6 fios com 6,55m cada (ajustar ao tamanho da cintura)',
+        '1 argola de madeira com 5cm de diâmetro',
+        'Tesoura ✂️',
+        'Fita métrica 📏',
+        'Isqueiro (acabamento no fio náutico) ou cola de silicone (acabamento em algodão)'
+    ],
     supplierLink: '/suppliers#supplier-2'
   },
   {
     id: '3',
     slug: 'macrame-basket',
-    title: 'Cesto de Macramê',
+    title: 'Cesto Grande em Macramê 🧺',
     description: 'Organize e decore qualquer ambiente com este lindo cesto de macramê.',
     imageId: 'macrame-basket',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: 'https://www.youtube.com/embed/edOn5L6s1nI',
     instructions: [
       'Use uma tigela como molde para a base.',
       'Comece com um círculo mágico de macramê no fundo da tigela.',
@@ -80,16 +93,21 @@ export const projects: Project[] = [
       'Retire da tigela e faça o acabamento da borda.'
     ],
     tips: [
-      'Usar um fio mais grosso deixará seu cesto mais estruturado.',
-      'A cola ajuda a dar mais firmeza para a peça final.'
+      'Cada nó muda o resultado final, então não se preocupem se o seu cesto ficar único — isso é que deixa sua arte ainda mais linda 💕.'
     ],
-    materials: ['Tigela para molde', 'Cordão de algodão 5mm', 'Cola branca', 'Agulha de tapeçaria'],
+    materials: [
+        'Tigela base (20cm de largura x 9cm de altura)',
+        '1 fio guia de 4m',
+        '61 fios de 3m cada',
+        'Cola universal ou linha + agulha (acabamento)',
+        'Cordão de algodão 3mm e 4mm'
+    ],
     supplierLink: '/suppliers#supplier-1'
   },
   {
     id: '4',
     slug: 'banana-holder',
-    title: 'Suporte para Bananas',
+    title: 'Suporte para Bananas 🍌',
     description: 'Um jeito criativo e funcional de armazenar suas frutas e decorar a cozinha.',
     imageId: 'macrame-banana-holder',
     videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
@@ -102,10 +120,15 @@ export const projects: Project[] = [
       'Finalize com um nó grande na parte de baixo, e adicione contas de madeira se desejar.'
     ],
     tips: [
-      'Use contas de madeira grandes para um visual mais rústico.',
-      'Certifique-se que o nó superior é bem forte para aguentar o peso das frutas.'
+      'Sempre que for usar miçangas de madeira no macramê, passe um pedacinho de fita adesiva na ponta do cordão antes de inserir. Isso deixa a ponta firme como uma agulha e facilita muito na hora de colocar as miçangas, sem desfiar o fio. Assim, o trabalho fica rápido e o acabamento bem mais limpo! 🌿👌'
     ],
-    materials: ['Cordão de algodão 3mm', 'Contas de madeira (opcional)'],
+    materials: [
+        'Cordão de algodão',
+        '1 cordão de 6mm com 30cm (alça)',
+        '4 cordões de 4mm com 130cm cada',
+        '1 cordão de 3mm com 70cm (nó escondido)',
+        '8 miçangas de madeira de 10mm'
+    ],
     supplierLink: '/suppliers#supplier-2'
   }
 ];
