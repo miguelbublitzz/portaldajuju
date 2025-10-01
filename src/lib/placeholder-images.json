@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "macrame-bag",
+      "description": "A handmade macrame bag hanging on a wall.",
+      "imageUrl": "https://images.unsplash.com/photo-1658774697613-7294c0d8adfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYWNyYW1lJTIwYmFnfGVufDB8fHx8MTc1OTI3MTMzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame bag"
+    },
+    {
+      "id": "macrame-belt",
+      "description": "A stylish macrame belt with a wooden ring.",
+      "imageUrl": "https://images.unsplash.com/photo-1707585130689-0d11deccc980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYWNyYW1lJTIwYmVsdHxlbnwwfHx8fDE3NTkzNDQ0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame belt"
+    },
+    {
+      "id": "macrame-basket",
+      "description": "A small decorative macrame basket.",
+      "imageUrl": "https://images.unsplash.com/photo-1634120881706-a763fdfec912?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYWNyYW1lJTIwYmFza2V0fGVufDB8fHx8MTc1OTM0NDQwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame basket"
+    },
+    {
+      "id": "macrame-banana-holder",
+      "description": "A macrame fruit hanger holding bananas.",
+      "imageUrl": "https://images.unsplash.com/photo-1645129603960-f1ba77dbd198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYWNyYW1lJTIwaGFuZ2VyfGVufDB8fHx8MTc1OTM0NTU5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame hanger"
+    },
+    {
+      "id": "supplier-generic",
+      "description": "Colorful balls of yarn and craft supplies.",
+      "imageUrl": "https://images.unsplash.com/photo-1514991001314-f695088ca9a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eWFybiUyMGNyYWZ0fGVufDB8fHx8MTc1OTM0NTU5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yarn craft"
+    }
+  ]
 }
