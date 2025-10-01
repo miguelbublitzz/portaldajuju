@@ -29,6 +29,78 @@
       "description": "Colorful balls of yarn and craft supplies.",
       "imageUrl": "https://images.unsplash.com/photo-1514991001314-f695088ca9a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8eWFybiUyMGNyYWZ0fGVufDB8fHx8MTc1OTM0NTU5OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "yarn craft"
+    },
+    {
+      "id": "macrame-pot-cover",
+      "description": "A macrame cover for a plant pot.",
+      "imageUrl": "https://images.unsplash.com/photo-1594738222104-7a5f36098059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwcG90JTIwY292ZXJ8ZW58MHx8fHwxNzYwNDAwMzgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame pot"
+    },
+    {
+      "id": "macrame-christmas-ornament",
+      "description": "A macrame Christmas ornament.",
+      "imageUrl": "https://images.unsplash.com/photo-1607593259960-03a11680174a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwY2hyaXN0bWFzJTIwb3JuYW1lbnR8ZW58MHx8fHwxNzYwNDAwNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame christmas"
+    },
+    {
+      "id": "macrame-pillow",
+      "description": "A decorative pillow with macrame details.",
+      "imageUrl": "https://images.unsplash.com/photo-1617348489729-645653147a74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwcGlsbG93fGVufDB8fHx8MTc2MDQwMDQ0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame pillow"
+    },
+    {
+      "id": "macrame-bag-2",
+      "description": "A person holding a stylish macrame bag.",
+      "imageUrl": "https://images.unsplash.com/photo-1590396557871-a99a80575305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYWNyYW1lJTIwYmFnfGVufDB8fHx8MTc2MDQwMDQ3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame bag"
+    },
+    {
+      "id": "macrame-bookmark",
+      "description": "A macrame bookmark inside a book.",
+      "imageUrl": "https://images.unsplash.com/photo-1629828599529-6539a2503254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwYm9va21hcmt8ZW58MHx8fHwxNzYwNDAwNDg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame bookmark"
+    },
+    {
+      "id": "macrame-table-runner",
+      "description": "A macrame table runner on a wooden table.",
+      "imageUrl": "https://images.unsplash.com/photo-1631779930510-9a3b6103630f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwdGFibGUlMjBydW5uZXJ8ZW58MHx8fHwxNzYwNDAwNTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame table"
+    },
+    {
+      "id": "macrame-cross",
+      "description": "A macrame cross hanging on a wall.",
+      "imageUrl": "https://images.unsplash.com/photo-1628113224424-a745582f342d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwY3Jvc3N8ZW58MHx8fHwxNzYwNDAwNTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame cross"
+    },
+    {
+      "id": "macrame-snowflake",
+      "description": "A macrame snowflake ornament.",
+      "imageUrl": "https://images.unsplash.com/photo-1636209543085-3e2f5b399a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwc25vd2ZsYWtlfGVufDB8fHx8MTc2MDQwMDU0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame snowflake"
+    },
+    {
+      "id": "macrame-christmas-ornaments-set",
+      "description": "A set of macrame christmas ornaments.",
+      "imageUrl": "https://images.unsplash.com/photo-1605553198884-6c39132442c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYWNyYW1lJTIwY2hyaXN0bWFzJTIwb3JuYW1lbnRzfGVufDB8fHx8MTc2MDQwMDU2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame ornaments"
+    },
+    {
+      "id": "macrame-heart-keychain",
+      "description": "A heart shaped macrame keychain.",
+      "imageUrl": "https://images.unsplash.com/photo-1616686681421-236b52a7814c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwaGVhcnR8ZW58MHx8fHwxNzYwNDAwNTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame heart"
+    },
+    {
+      "id": "macrame-plant-hanger",
+      "description": "A macrame plant hanger with a plant in it.",
+      "imageUrl": "https://images.unsplash.com/photo-1599203799139-64c471018e69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwcGxhbnQlMjBoYW5nZXJ8ZW58MHx8fHwxNzYwNDAwNjA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame plant"
+    },
+    {
+      "id": "macrame-keychains-3-models",
+      "description": "A set of three different macrame keychains.",
+      "imageUrl": "https://images.unsplash.com/photo-1631779930598-60a4c0f2a7a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWNyYW1lJTIwa2V5Y2hhaW5zfGVufDB8fHx8MTc2MDQwMDYyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macrame keychains"
     }
   ]
 }
