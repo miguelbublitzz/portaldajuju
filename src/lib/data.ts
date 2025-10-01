@@ -336,32 +336,6 @@ export const projects: Project[] = [
     supplierLink: '/suppliers#supplier-3'
   },
   {
-    id: '13',
-    slug: 'macrame-christmas-ornaments-set',
-    title: 'Enfeites de Natal (Kit)',
-    description: 'Um kit com 3 lindos enfeites de natal: mini painel, guirlanda e estrela.',
-    imageId: 'macrame-christmas-ornaments-set',
-    videoUrl: 'https://www.youtube.com/embed/watch?v=n7z3_h-45dg',
-    instructions: [
-      'Siga as instruções do vídeo para cada um dos enfeites.',
-      'Use a receita de cola para endurecer as peças e garantir que mantenham o formato.',
-      'Penteie as franjas com a rasqueadeira para um acabamento fofinho.',
-      'Adicione um fio para pendurar na árvore.'
-    ],
-    tips: ['Faça vários kits para presentear amigos e familiares no Natal!'],
-    materials: [
-      'Tesoura, fita métrica, rasqueadeira, cola branca, álcool, água, base eva e alfinetes',
-      'Barbante 24 fios (4mm)',
-      '1und Hashi ou Palito de churrasco de 8cm',
-      '2und Argola plástica de 4,5cm',
-      'PAINEL: 6 linhas de 50cm',
-      'GUIRLANDA: 14 linhas de 40cm',
-      'ESTRELA: 12 linhas de 40cm',
-      'Receita Cola: 2 colheres de Cola, 1 colher de Água, 1 colher de álcool'
-    ],
-    supplierLink: '/suppliers#supplier-3'
-  },
-  {
     id: '14',
     slug: 'macrame-heart-keychain',
     title: 'Chaveiro de Coração',
