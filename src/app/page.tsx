@@ -51,7 +51,7 @@ export default function Home() {
                 <CardContent className="flex-grow flex flex-col justify-between">
                   <p className="text-muted-foreground mb-6">{feature.description}</p>
                   <Button variant="outline" className="w-full mt-auto group-hover:bg-accent/50 transition-colors">
-                    Ver Mais
+                    Ir para {feature.title}
                     <ArrowRight className="ml-2 h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
                   </Button>
                 </CardContent>
