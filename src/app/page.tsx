@@ -1,5 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { HandPlatter, HeartHandshake, Package, Store } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { HandPlatter, HeartHandshake, Package, Store, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 
 const features = [
@@ -39,16 +40,20 @@ export default function Home() {
         
         <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8">
           {features.map((feature) => (
-            <Link href={feature.href} key={feature.title} className="group">
-              <Card className="h-full text-center hover:shadow-xl hover:-translate-y-1 transition-transform duration-300">
+            <Link href={feature.href} key={feature.title} className="group h-full">
+              <Card className="h-full text-center hover:shadow-xl hover:-translate-y-1 transition-transform duration-300 flex flex-col">
                 <CardHeader>
                   <div className="mx-auto flex h-20 w-20 items-center justify-center rounded-full bg-rose-100 mb-4 group-hover:bg-primary/10 transition-colors">
                     {feature.icon}
                   </div>
                   <CardTitle className="text-2xl font-headline text-primary">{feature.title}</CardTitle>
                 </CardHeader>
-                <CardContent>
-                  <p className="text-muted-foreground">{feature.description}</p>
+                <CardContent className="flex-grow flex flex-col justify-between">
+                  <p className="text-muted-foreground mb-6">{feature.description}</p>
+                  <Button variant="outline" className="w-full mt-auto group-hover:bg-accent/50 transition-colors">
+                    Ver Mais
+                    <ArrowRight className="ml-2 h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
+                  </Button>
                 </CardContent>
               </Card>
             </Link>
