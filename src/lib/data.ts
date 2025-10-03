@@ -50,7 +50,7 @@ export const projects: Project[] = [
         'Botão de ímã (opcional)',
         'Mosquetão (opcional)'
     ],
-    supplierLink: '/suppliers#supplier-1'
+    supplierLink: '/suppliers'
   },
   {
     id: '2',
@@ -77,7 +77,7 @@ export const projects: Project[] = [
         'Fita métrica 📏',
         'Isqueiro (acabamento no fio náutico) ou cola de silicone (acabamento em algodão)'
     ],
-    supplierLink: '/suppliers#supplier-2'
+    supplierLink: '/suppliers'
   },
   {
     id: '3',
@@ -103,7 +103,7 @@ export const projects: Project[] = [
         'Cola universal ou linha + agulha (acabamento)',
         'Cordão de algodão 3mm e 4mm'
     ],
-    supplierLink: '/suppliers#supplier-1'
+    supplierLink: '/suppliers'
   },
   {
     id: '5',
@@ -127,7 +127,7 @@ export const projects: Project[] = [
       'Tesoura',
       'Vaso'
     ],
-    supplierLink: '/suppliers#supplier-1'
+    supplierLink: '/suppliers'
   },
   {
     id: '6',
@@ -157,7 +157,7 @@ export const projects: Project[] = [
       'Bola de madeira com furo',
       'Bola Transparente que abre'
     ],
-    supplierLink: '/suppliers#supplier-3'
+    supplierLink: '/suppliers'
   },
   {
     id: '7',
@@ -186,7 +186,7 @@ export const projects: Project[] = [
       'Agulha de Croché',
       'Furador'
     ],
-    supplierLink: '/suppliers#supplier-1'
+    supplierLink: '/suppliers'
   },
   {
     id: '8',
@@ -212,7 +212,7 @@ export const projects: Project[] = [
       'Bolsa: 1 linha de 150cm e 14 linhas de 450cm',
       'Alça: 1 linha de 600cm e 2 linhas de 450cm'
     ],
-    supplierLink: '/suppliers#supplier-2'
+    supplierLink: '/suppliers'
   },
   {
     id: '9',
@@ -235,7 +235,7 @@ export const projects: Project[] = [
       'Hashi ou Palito Churrasco de 5cm',
       '6 linhas de 150cm'
     ],
-    supplierLink: '/suppliers#supplier-3'
+    supplierLink: '/suppliers'
   },
   {
     id: '10',
@@ -257,7 +257,7 @@ export const projects: Project[] = [
       'Barbante 24 fios (4mm)',
       '20 linhas de 450cm (4,50 metros)'
     ],
-    supplierLink: '/suppliers#supplier-1'
+    supplierLink: '/suppliers'
   },
   {
     id: '11',
@@ -280,7 +280,7 @@ export const projects: Project[] = [
       '1 linha de 150cm',
       '1 linha de 100cm'
     ],
-    supplierLink: '/suppliers#supplier-3'
+    supplierLink: '/suppliers'
   },
   {
     id: '12',
@@ -306,7 +306,7 @@ export const projects: Project[] = [
       '12 linhas de 30cm',
       'Receita Cola: 2 colheres de Cola, 1 colher de Água, 1 colher de álcool'
     ],
-    supplierLink: '/suppliers#supplier-3'
+    supplierLink: '/suppliers'
   },
   {
     id: '14',
@@ -331,7 +331,7 @@ export const projects: Project[] = [
       '1 linha de 90cm',
       '1 linha de 30cm'
     ],
-    supplierLink: '/suppliers#supplier-2'
+    supplierLink: '/suppliers'
   },
   {
     id: '15',
@@ -355,7 +355,7 @@ export const projects: Project[] = [
       '6 linhas de 200cm',
       '2 linhas de 50cm'
     ],
-    supplierLink: '/suppliers#supplier-2'
+    supplierLink: '/suppliers'
   },
   {
     id: '16',
@@ -377,7 +377,7 @@ export const projects: Project[] = [
       'Mosquetão de 2cm x 4cm - 3 unidades',
       'Barbante 24 fios',
     ],
-    supplierLink: '/suppliers#supplier-2'
+    supplierLink: '/suppliers'
   }
 ];
 
