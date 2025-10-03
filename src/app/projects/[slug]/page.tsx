@@ -117,7 +117,7 @@ export default function ProjectDetailsPage({ params }: { params: { slug: string 
                       ))}
                     </ul>
                     <Button asChild className="w-full mt-6">
-                      <Link href={project.supplierLink}>Ver Fornecedores</Link>
+                      <Link href="/suppliers">Ver Fornecedores</Link>
                     </Button>
                   </CardContent>
                 </Card>
